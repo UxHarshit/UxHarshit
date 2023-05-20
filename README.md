@@ -1,16 +1,29 @@
-### Hi there 👋
+## About Me
+```javascript
+class AboutMe {
+    constructor() {
+        this.name = "Harshit Katheria";
+        this.role = ['Full Stack Dev','QA Analyst','Data Scientist'];
+        this.age = 19;
+        this.location = "[Noida, India]";
+        this.languages = ['C++', 'Dart', 'Java', 'JavaScript', 'Kotlin', 'Python', 'TypeScript'];
+        this.databases = ['MongoDB', 'MySQL'];
+        this.workEnviroment = ['Linux','Windows'];
+        this.tools = ['Android', 'Docker', 'Figma', 'Firebase', 'Flutter', 'Git', 'Heroku', 'Node.js', 'Postman'];
+    }
+}
+const me = new AboutMe();
+```
 
-<!--
-**UxHarshit/UxHarshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Social Links 
 
-Here are some ideas to get you started:
+[LinkedIn](https://linkedin.com/in/harshit-katheria) | 
+[YouTube](https://www.youtube.com/c/teamuxh6855) | 
+[HackerRank](https://www.hackerrank.com/hurricanexd7890)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Stats
+![](https://github-readme-stats.vercel.app/api/top-langs?username=uxharshit&show_icons=true&locale=en&layout=compact&theme=onedark) 
+![](https://github-readme-stats.vercel.app/api?username=uxharshit&show_icons=true&locale=en&theme=onedark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=uxharshit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

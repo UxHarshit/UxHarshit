@@ -8,7 +8,7 @@ class AboutMe {
         this.location = "[Noida, India]";
         this.languages = ['C++', 'Dart', 'Java', 'JavaScript', 'Kotlin', 'Python', 'TypeScript'];
         this.databases = ['MongoDB', 'MySQL'];
-        this.workEnviroment = ['Linux','Windows'];
+        this.workEnviroment = ['Arch Linux','Windows'];
         this.tools = ['Android', 'Docker', 'Figma', 'Firebase', 'Flutter', 'Git', 'Heroku', 'Node.js', 'Postman'];
     }
 }

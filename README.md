@@ -19,7 +19,7 @@ const me = new AboutMe();
 
 [LinkedIn](https://linkedin.com/in/harshit-katheria) | 
 [YouTube](https://www.youtube.com/c/teamuxh6855) | 
-[HackerRank](https://www.hackerrank.com/hurricanexd7890)
+[HackerRank](https://www.hackerrank.com/profile/Harshit_Katheria)
 
 
 ### Stats

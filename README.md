@@ -3,10 +3,10 @@
 class AboutMe {
     constructor() {
         this.name = "Harshit Katheria";
-        this.role = ['Full Stack Dev','QA Analyst','Data Scientist'];
-        this.age = 19;
+        this.role = ['Full Stack Dev','QA Analyst','Data Scientist','Cyber Security'];
+        this.age = 20;
         this.location = "[Noida, India]";
-        this.languages = ['C++', 'Dart', 'Java', 'JavaScript', 'Kotlin', 'Python', 'TypeScript'];
+        this.languages = ['C++', 'Dart', 'Java', 'PHP', 'JavaScript', 'Kotlin', 'Python', 'TypeScript'];
         this.databases = ['MongoDB', 'MySQL'];
         this.workEnviroment = ['Arch Linux','Windows'];
         this.tools = ['Android', 'Docker', 'Figma', 'Firebase', 'Flutter', 'Git', 'Heroku', 'Node.js', 'Postman'];

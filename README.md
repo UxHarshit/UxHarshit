@@ -1,6 +1,5 @@
 ## Hey there,
 ![](https://komarev.com/ghpvc/?username=UxHarshit&abbreviated=true)
-![Views Counter](https://views-counter.vercel.app/badge?pageId=UxHarshit/UxHarshit)
 ## About Me
 ```javascript
 class AboutMe {

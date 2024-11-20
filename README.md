@@ -22,7 +22,7 @@ const me = new AboutMe();
 
 [LinkedIn](https://linkedin.com/in/harshit-katheria) | 
 [YouTube](https://www.youtube.com/@teamuxh6855) | 
-[HackerRank](https://www.hackerrank.com/profile/Harshit_Katheria)
+[Codechef](https://www.codechef.com/users/harshit_k7890)
 
 
 ### Stats

@@ -6,7 +6,7 @@ class AboutMe {
     constructor() {
         this.name = "Harshit Katheria";
         this.role = ['Full Stack Dev','Reverse Engineer','Cyber Security'];
-        this.age = 20;
+        this.age = 21;
         this.location = "[Noida, India]";
         this.languages = ['C++', 'Dart', 'Java', 'PHP', 'JavaScript', 'Kotlin', 'Python', 'TypeScript'];
         this.databases = ['MongoDB', 'MySQL'];

@@ -53,7 +53,10 @@
 
 ## 🔗 Contact  
 
-[LinkedIn](https://linkedin.com/in/harshit-katheria)
+<p align="center">
+  <a href="https://linkedin.com/in/harshit-katheria">🔗 LinkedIn</a> • 
+  <a href="mailto:harshitkatheria7890@gmail.com">📧 Email</a>
+</p>
 
 ---
 

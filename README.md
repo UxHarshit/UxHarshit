@@ -47,14 +47,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UxHarshit&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UxHarshit&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
----
 ## 📈 Daily Stats
 
 <p align="center">

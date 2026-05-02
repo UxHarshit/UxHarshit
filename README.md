@@ -20,7 +20,7 @@
 ## 🧾 About Me
 
 - 🧠 **Name:** Harshit Katheria  
-- 🎂 **Age:** 21
+- 🎂 **Age:** 22
 - 🌍 **From:** India  
 - 💻 **Domains:** Full Stack Development, Android Development, Reverse Engineering, Cyber Security  
 - 🐧 **Favorite OS:** Arch Linux  
